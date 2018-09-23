@@ -1,0 +1,4 @@
+adrnmt.datatypes.CarteDeTelefonSerializable
+adrnmt.datatypes.CarteDeTelefon$2
+adrnmt.datatypes.CarteDeTelefon$1
+adrnmt.datatypes.CarteDeTelefon
